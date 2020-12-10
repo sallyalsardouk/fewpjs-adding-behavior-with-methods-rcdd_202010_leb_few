@@ -23,19 +23,19 @@ speak(){
 }
 }
 
-class Bird{
-  constructor(name,sex){
-    this.name=name
-    this.sex=sex
-  }
+// class Bird{
+//   constructor(name,sex){
+//     this.name=name
+//     this.sex=sex
+//   }
   
-if (sex=male){
-speak(){
-  return `it's me!${this.name} the parrot!`
-}
-}
-  speak(){
-  return `${this.name} says squawk!`
+// if (sex=male){
+// speak(){
+//   return `it's me!${this.name} the parrot!`
+// }
+// }
+//   speak(){
+//   return `${this.name} says squawk!`
   
-}
-}
+// }
+// }
