@@ -23,11 +23,11 @@ speak(){
 }
 }
 
-// class Bird{
-//   constructor(name,sex){
-//     this.name=name
-//     this.sex=sex
-//   }
+class Bird{
+  constructor(name,sex){
+    this.name=name
+    this.sex=sex
+  }
   
 // if (sex=male){
 // speak(){
