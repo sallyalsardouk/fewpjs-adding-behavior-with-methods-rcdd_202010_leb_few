@@ -28,16 +28,14 @@ class Bird{
     this.name=name
     this.sex=sex
   }
-  
-if (sex=male){
-speak(){
+  speak(){
+if (sex=='male'){
+
   return `it's me!${this.name} the parrot!`
+
 }
-}
- else(sex=!male){
-   speak(){
+ else
    return `${this.name} says squawk!`
   
  }
-}
 }
