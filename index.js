@@ -35,7 +35,7 @@ if (sex=='male'){
 
 }
  else
-   return `${this.name} says Squawk!`
+   return `s Squawk!`
   
  }
 }
