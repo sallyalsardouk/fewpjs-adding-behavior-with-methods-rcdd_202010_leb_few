@@ -34,7 +34,8 @@ speak(){
   return `it's me!${this.name} the parrot!`
 }
 }
-if(sex!=male){
+  speak(){
+  return `it's me!${this.name} the parrot!`
   
 }
 }
