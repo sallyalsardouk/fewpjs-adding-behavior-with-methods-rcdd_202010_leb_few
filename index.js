@@ -35,7 +35,7 @@ speak(){
 }
 }
   speak(){
-  return `it's me!${this.name} the parrot!`
+  return `${this.name} says squawk!`
   
 }
 }
